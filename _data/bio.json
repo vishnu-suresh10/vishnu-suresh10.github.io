@@ -1,58 +1,44 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Vishnu Suresh",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "images/photo_of_me.jpg",
+    "email": "vishnusbos@gamil.com",
+    "phone": "",
+    "website": "https://vishnu-suresh10.github.io",
+    "summary": "I am a high school student who is fond of machine learning, and how it can be used to solve problems we face in society today.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "",
+      "city": "",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Massachusetts"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "vishnu-suresh10",
+        "url": "http://github.com/vishnu-suresh10"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "",
+        "url": "https://www.linkedin.com/in/978843155/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Machine Learning",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Competitive Programming",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "ACSL"
       ]
     }
   ],
@@ -62,31 +48,19 @@
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
+        "Python",
+        "Swift",
         "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Andover High School",
+      "area": "",
+      "studyType": "",
+      "startDate": "2016-2020",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,41 +69,29 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "iSpecimen",
+      "position": "Operations Analystics Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-07",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Andover Youth Services",
+      "website": "http://www.andoveryouthservices.com",
+      "position": "Staff",
+      "startDate": "2017-09",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Engage in activities with middle school children to create a safe and supporting environment",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
