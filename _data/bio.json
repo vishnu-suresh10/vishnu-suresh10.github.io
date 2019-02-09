@@ -29,17 +29,13 @@
   },
   "interests": [
     {
+      "name": "Computer Science",
+    },
+    {
       "name": "Machine Learning",
-      "keywords": [
-        "",
-        ""
-      ]
     },
     {
       "name": "Competitive Programming",
-      "keywords": [
-        "ACSL"
-      ]
     }
   ],
   "skills": [
