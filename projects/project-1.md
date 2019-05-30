@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Positweet
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-04-06
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - NLP
+  - Sentiment Analysis
+  - Python
+summary: My team developed an application that notified users if they had negative tweets on their twitter account.
 ---
 
 <div class="ui small rounded images">
