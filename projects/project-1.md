@@ -14,10 +14,9 @@ summary: My team developed an application that notified users if they had negati
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/gallery.jpg">
+  <img class="ui image" src="../images/gallery-2.jpg">
+  <img class="ui image" src="../images/gallery-3.jpg">
 </div>
 
 My team developed an application that notified users if they had negative tweets on their twitter account.
@@ -36,7 +35,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more on [Devpost](https://devpost.com/software/positweet-ijdez1).
 
 
 
