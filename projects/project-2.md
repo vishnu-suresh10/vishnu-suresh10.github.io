@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Emotion Detector
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2018-06-01
@@ -10,15 +10,13 @@ labels:
   - Machine Learning
   - Swift
   - Python
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: An iOS app built in my AP Java class.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+What is my project?: My project is an Emotion Detector. Happy or Not is an app where users can either import a photo or take a picture, and the app will tell them whether they are Happy or Not. It is meant for entertainment purposes, but also for kids who have trouble understanding emotions.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Why create this as my final as opposed to something else?: I wanted to create an application that uses machine learning. I decided to do an emotion detector because I saw nothing like this ever existed. I aimed to make it an entertainment app as well as an app that can help kids understand emotions.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Why I chose to work with the selected language?: I used Python to create the machine learning model. Python is the primary language used for machine learning as there is an influx of different libraries available. I decided to work in Swift and Objective C for programming the app. Swift and Objective C are the primary languages used in creating IOS apps. I felt that creating an app would be the best way to show off the machine learning model.
