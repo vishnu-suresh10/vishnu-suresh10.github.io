@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/icon
+image: images/icon.png
 title: Emotion Detector
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
