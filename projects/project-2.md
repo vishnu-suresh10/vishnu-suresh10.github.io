@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/icon
 title: Emotion Detector
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
@@ -12,8 +12,6 @@ labels:
   - Python
 summary: An iOS app built in my AP Java class.
 ---
-
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
 What is my project?: My project is an Emotion Detector. Happy or Not is an app where users can either import a photo or take a picture, and the app will tell them whether they are Happy or Not. It is meant for entertainment purposes, but also for kids who have trouble understanding emotions.
 
